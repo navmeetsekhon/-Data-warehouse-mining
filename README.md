@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navmeetsekhon&label=Profile%20views&color=0e75b6&style=flat" alt="navmeetsekhon" /> </p>
 
 - 🔭 Roll no. 2229027
-- 
 - 🔭 I’m currently working on [Job work management system](https://github.com/navmeetsekhon/dyeingSystemJobWork.git)
 
 - 🌱 I’m currently learning **Javascript,Java,C++**
